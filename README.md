@@ -1,2 +1,2 @@
 # practicing git 
-<h1 style ="color:red">this is a shohidul islam</h1>
+<h1>this is a shohidul islam</h1>
